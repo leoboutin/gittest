@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Cavalier
+comment1.params=name\ initialX\ initialY\ colourBody\ world
+comment1.target=Cavalier(java.lang.String,\ int,\ int,\ java.lang.String,\ World)
+comment2.params=
+comment2.target=void\ moveCavalierWithRetry()
+comment3.params=
+comment3.target=void\ avancer()
+numComments=4

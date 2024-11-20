@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Reine
+comment1.params=name\ x\ y\ colourBody\ world
+comment1.target=Reine(java.lang.String,\ int,\ int,\ java.lang.String,\ World)
+comment2.params=
+comment2.target=void\ avancer()
+comment3.params=
+comment3.target=java.lang.String\ genererDirectionAleatoire()
+comment4.params=
+comment4.target=int\ genererNombreDeCasesAleatoire()
+comment5.params=direction\ n
+comment5.target=boolean\ avancerR(java.lang.String,\ int)
+numComments=6

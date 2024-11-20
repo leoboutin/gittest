@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RobotPawn
+comment1.params=name\ x\ y\ colourBody\ world
+comment1.target=RobotPawn(java.lang.String,\ int,\ int,\ java.lang.String,\ World)
+comment2.params=
+comment2.target=void\ avancer()
+numComments=3
